@@ -1,12 +1,52 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>API Automation & Performance Testing using k6, Java, and CI/CD pipelines<br><br>🤝 I’m looking to collaborate on<br>Building scalable automation frameworks and performance monitoring solutions<br><br>🧠 I’m looking for help with<br>Exploring real-world applications of AI/ML in testing and automation<br><br>🌱 I’m currently learning<br>Python for Data Science and implementing Machine Learning algorithms for predictive analytics<br><br>💬 Ask me about<br>API Testing, CI/CD pipelines, Performance Testing, Test Automation strategies<br><br>⚡ Fun fact<br>I enjoy mentoring junior testers and experimenting with AI-driven automation frameworks in my free time 🚀
+🔭 I’m currently working one 🚀
+✅ Lead AI Engineer building Agentic AI & GenAI systems for APIs and automation
 
+##👋 About Me
+
+Lead AI Engineer with 7+ years of experience building **production-grade AI systems** for API-driven platforms.
+
+I specialize in:
+- **GenAI & Agentic AI systems** (Planner–Executor–Evaluator architectures)
+- **LLM-powered automation & reasoning systems**
+- **Autonomous API testing & failure analysis**
+- **AI-driven QA, CI/CD intelligence, and platform reliability**
+
+Currently working at a **global product-based startup**, building intelligent automation systems that combine **deterministic engineering with GenAI reasoning**.
+
+I focus on solving **real-world engineering problems**, not just building demos.
+
+## 🚀 What I’m Building
+
+- 🧠 **Agentic AI for Autonomous API Test Generation & Failure Analysis**
+- 🤖 LLM-powered systems for test planning, execution, and root cause analysis
+- ⚙️ Intelligent CI/CD automation using GenAI
+- 🔍 Explainable AI systems for QA and platform observability
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pazhanichamy-pandi-77a60b2bb/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Pazhanichamy Pandi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pmpazhani23@gmail.com) 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+## 🧩 Core Tech Stack
+
+**AI & GenAI**
+- Python, OpenAI / LLM APIs
+- Agentic AI (Planner–Executor–Evaluator)
+- RAG, Prompt Engineering, Evaluation
+
+**Backend & APIs**
+- FastAPI, REST APIs
+- API contracts (OpenAPI / Swagger)
+
+**Testing & Automation**
+- Pytest, API Automation
+- Self-healing test systems
+- Failure classification & analysis
+
+**DevOps & Platforms**
+- CI/CD (GitHub Actions)
+- Docker, Cloud-native workflows
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pazhanipm91&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pazhanipm91&theme=dark&hide_border=false)<br/>
